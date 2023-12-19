@@ -5,8 +5,12 @@ This project focuses on classifying mushrooms into edible and poisonous categori
 ## Features and Dataset
     Dataset: The dataset includes 61,069 mushrooms categorized into 173 species.
     Features: 15 features per mushroom, including physical characteristics like cap shape, color, and dimensions.
+### The (12) Categorical Features in the dataset
+![Accuracy Rates](images/categorical_features.png) 
 
-### Feature Engineering: Top 20 Feature Scores
+## Feature Engineering: The Top Extracted (and the Used) Features
+![Top Extracted Features](images/top_extracted_features.png) 
+
 ## Models Used
     1. Random Forest
     2. Multi-Layer Perceptron
@@ -14,6 +18,11 @@ This project focuses on classifying mushrooms into edible and poisonous categori
     4. Gradient Boosting
 
 ## Results
+### Accuracy Rates for Different Models
+![Accuracy Rates](images/results.png) 
+### Confusion Matrix for Different Models
+![Confusion Matrix Multi-layer Perceptron](images/cm_mlp.png) 
+![Confusion Matrix Random Forest](images/cm_rf.png)
+![Confusion Matrix Gradient Boosting](images/cm_gb.png) 
+![Confusion Matrix Logistic Regression](images/cm_lr.png)
 
-
-## Summarize the performance of the models, key findings, or any interesting insights you gained.
