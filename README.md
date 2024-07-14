@@ -1,4 +1,4 @@
-# Mushroom Classification Project
+# Mushroom Classifier
 ![mushroom image](images/colorful_mushrooms.png) 
 
 ## Project Overview
